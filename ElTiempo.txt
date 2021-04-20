@@ -1,0 +1,8 @@
+2021-04-19 22:15:03.389493
+Madrid                    maxima: 20  minima: 6  cielo: Nuboso con tormenta y lluvia escasa
+Alcalá de Henares         maxima: 21  minima: 4  cielo: Nuboso con tormenta y lluvia escasa
+Getafe                    maxima: 20  minima: 7  cielo: Nuboso con tormenta y lluvia escasa
+Collado Villalba          maxima: 18  minima: 5  cielo: Muy nuboso con tormenta
+Navalcarnero              maxima: 19  minima: 5  cielo: Intervalos nubosos con tormenta y lluvia escasa
+Aranjuez                  maxima: 21  minima: 4  cielo: Muy nuboso con tormenta y lluvia escasa
+2021-04-19 22:15:03.389605

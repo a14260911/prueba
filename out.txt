@@ -1,0 +1,826 @@
+INICIO
+2021-04-13 16:51:35.060807
+***** Cliente:  S2800556I *****
+Servicio:  55
+subactividad de servicio[0]: 4197378
+Ministerio de Agricultura Pesca y Alimentacion ** 4197378 ** BAJA **
+subactividad de servicio[1]:  4199007
+Ministerio de Agricultura Pesca y Alimentacion ** 4199007 ** BAJA **
+Servicio:  390
+*************************************************************************
+
+***** Cliente:  A86171964 *****
+Servicio:  55
+subactividad de servicio[0]: 4212089
+SELAE ** 4212089 ** BAJA **
+subactividad de servicio[0]: 4235770
+SELAE ** 4235770 ** ACTIVO **
+1875070 SELAE 4235769 4235770 55 TROE 490.0
+subactividad de servicio[0]: 4235771
+SELAE ** 4235771 ** ACTIVO **
+1875070 SELAE 4235769 4235771 55 TROE 490.0
+Servicio:  390
+subactividad de servicio[0]: 4212090
+SELAE ** 4212090 ** BAJA **
+*************************************************************************
+
+***** Cliente:  A57809774 *****
+Servicio:  55
+subactividad de servicio[0]: 4233847
+Grupo Pinero (Soltour) ** 4233847 ** ACTIVO **
+1875070 Grupo Pinero (Soltour) 4233846 4233847 55 TROE 5100.0
+subactividad de servicio[0]: 4233612
+Grupo Pinero (Soltour) ** 4233612 ** ACTIVO **
+1875070 Grupo Pinero (Soltour) 4233610 4233612 55 TROE 5100.0
+subactividad de servicio[1]:  4235496
+Grupo Pinero (Soltour) ** 4235496 ** ACTIVO **
+1875070 Grupo Pinero (Soltour) 4233846 4235496 55 TROE 0.0
+Servicio:  390
+subactividad de servicio[0]: 4233611
+Grupo Pinero (Soltour) ** 4233611 ** ACTIVO **
+1875070 Grupo Pinero (Soltour) 4233610 4233611 390 TROE 2400.0
+*************************************************************************
+
+***** Cliente:  G28034718 *****
+Servicio:  55
+subactividad de servicio[0]: 4203334
+Real Madrid ** 4203334 ** ACTIVO **
+1875070 Real Madrid 4176346 4203334 55 TROE 16055.669921875
+subactividad de servicio[1]:  4187506
+Real Madrid ** 4187506 ** ACTIVO **
+1875070 Real Madrid 4176346 4187506 55 TROE 1736.0
+Servicio:  390
+subactividad de servicio[0]: 4203335
+Real Madrid ** 4203335 ** ACTIVO **
+1875070 Real Madrid 4176346 4203335 390 TROE 5265.199951171875
+subactividad de servicio[1]:  4187507
+Real Madrid ** 4187507 ** ACTIVO **
+1875070 Real Madrid 4176346 4187507 390 TROE 0.0
+*************************************************************************
+
+***** Cliente:  S2804005C *****
+Servicio:  55
+subactividad de servicio[0]: 4217978
+Defensor del Pueblo ** 4217978 ** ACTIVO **
+1875070 Defensor del Pueblo 4217972 4217978 55 TROE 1715.2300415039062
+Servicio:  390
+*************************************************************************
+
+***** Cliente:  B84818442 *****
+Servicio:  55
+subactividad de servicio[0]: 4203054
+LEROY MERLIN ** 4203054 ** ACTIVO **
+1875070 LEROY MERLIN 4195035 4203054 55 TROE 25851.5
+subactividad de servicio[1]:  4195711
+LEROY MERLIN ** 4195711 ** ACTIVO **
+1875070 LEROY MERLIN 4195035 4195711 55 TROE 0.0
+Servicio:  390
+subactividad de servicio[0]: 4227287
+LEROY MERLIN ** 4227287 ** ACTIVO **
+1875070 LEROY MERLIN 4227286 4227287 390 TROE 5840.0
+subactividad de servicio[0]: 4203055
+LEROY MERLIN ** 4203055 ** ACTIVO **
+1875070 LEROY MERLIN 4195035 4203055 390 TROE 5840.0
+subactividad de servicio[1]:  4195712
+LEROY MERLIN ** 4195712 ** ACTIVO **
+1875070 LEROY MERLIN 4195035 4195712 390 TROE 584.4600219726562
+*************************************************************************
+
+***** Cliente:  A08105702 *****
+Servicio:  55
+subactividad de servicio[0]: 4227593
+Grupo Godo de Comunicacion, S.A. ** 4227593 ** ACTIVO **
+1875070 Grupo Godo de Comunicacion, S.A. 4227592 4227593 55 TROE 1492.5
+subactividad de servicio[0]: 4228620
+Grupo Godo de Comunicacion, S.A. ** 4228620 ** ACTIVO **
+1875070 Grupo Godo de Comunicacion, S.A. 4227592 4228620 55 TROE 1492.5
+subactividad de servicio[1]:  4228621
+Grupo Godo de Comunicacion, S.A. ** 4228621 ** ACTIVO **
+1875070 Grupo Godo de Comunicacion, S.A. 4227592 4228621 55 TROE 4358.470001220703
+Servicio:  390
+*************************************************************************
+
+***** Cliente:  S2804002J *****
+Servicio:  55
+subactividad de servicio[0]: 4226496
+CONGRESO DE LOS DIPUTADOS ** 4226496 ** BAJA **
+subactividad de servicio[0]: 4240784
+CONGRESO DE LOS DIPUTADOS ** 4240784 ** ACTIVO **
+1875070 CONGRESO DE LOS DIPUTADOS 4240783 4240784 55 TROE 12488.77001953125
+subactividad de servicio[1]:  4214861
+CONGRESO DE LOS DIPUTADOS ** 4214861 ** BAJA **
+subactividad de servicio[1]:  4222367
+CONGRESO DE LOS DIPUTADOS ** 4222367 ** BAJA **
+subactividad de servicio[1]:  4241690
+CONGRESO DE LOS DIPUTADOS ** 4241690 ** ACTIVO **
+1875070 CONGRESO DE LOS DIPUTADOS 4240783 4241690 55 TROE 0.0
+Servicio:  390
+*************************************************************************
+
+***** Cliente:  A60105129 *****
+Servicio:  55
+Servicio:  390
+subactividad de servicio[0]: 4207251
+Banco de Sabadell ** 4207251 ** ACTIVO **
+1875070 Banco de Sabadell 4207250 4207251 390 TROE 11180.240234375
+subactividad de servicio[0]: 4240136
+Banco de Sabadell ** 4240136 ** ACTIVO **
+1875070 Banco de Sabadell 4240135 4240136 390 TROE 11180.240234375
+subactividad de servicio[1]:  4240948
+Banco de Sabadell ** 4240948 ** ACTIVO **
+1875070 Banco de Sabadell 4240135 4240948 390 TROE 0.0
+*************************************************************************
+
+***** Cliente:  A29076049 *****
+Servicio:  55
+subactividad de servicio[0]: 4214232
+Mayoral Moda Infantil SA ** 4214232 ** BAJA **
+subactividad de servicio[0]: 4235240
+Mayoral Moda Infantil SA ** 4235240 ** ACTIVO **
+1875070 Mayoral Moda Infantil SA 4235239 4235240 55 TROE 1850.0
+subactividad de servicio[1]:  4214233
+Mayoral Moda Infantil SA ** 4214233 ** BAJA **
+subactividad de servicio[1]:  4235660
+Mayoral Moda Infantil SA ** 4235660 ** ACTIVO **
+1875070 Mayoral Moda Infantil SA 4235239 4235660 55 TROE 0.0
+Servicio:  390
+*************************************************************************
+
+***** Cliente:  B03403169 *****
+Servicio:  55
+subactividad de servicio[0]: 4211048
+Goldcar/Rhodium ** 4211048 ** ACTIVO **
+1875070 Goldcar/Rhodium 4211047 4211048 55 TROE 3000.0
+subactividad de servicio[1]:  4212674
+Goldcar/Rhodium ** 4212674 ** ACTIVO **
+1875070 Goldcar/Rhodium 4211047 4212674 55 TROE 173.4600067138672
+Servicio:  390
+subactividad de servicio[0]: 4211049
+Goldcar/Rhodium ** 4211049 ** ACTIVO **
+1875070 Goldcar/Rhodium 4211047 4211049 390 TROE 2650.0
+*************************************************************************
+
+***** Cliente:  B87602173 *****
+Servicio:  55
+subactividad de servicio[0]: 4217501
+Prosegur Transportes De Valores Sa ** 4217501 ** ACTIVO **
+1875070 Prosegur Transportes De Valores Sa 4217500 4217501 55 TROE 8975.0
+subactividad de servicio[1]:  4218807
+Prosegur Transportes De Valores Sa ** 4218807 ** ACTIVO **
+1875070 Prosegur Transportes De Valores Sa 4217500 4218807 55 TROE 258.7699890136719
+Servicio:  390
+subactividad de servicio[0]: 4217502
+Prosegur Transportes De Valores Sa ** 4217502 ** ACTIVO **
+1875070 Prosegur Transportes De Valores Sa 4217500 4217502 390 TROE 8175.0
+subactividad de servicio[0]: 4235200
+Prosegur Transportes De Valores Sa ** 4235200 ** ACTIVO **
+1875070 Prosegur Transportes De Valores Sa 4235199 4235200 390 TROE 8175.0
+*************************************************************************
+
+***** Cliente:  S2816015H *****
+Servicio:  55
+Servicio:  390
+*************************************************************************
+
+***** Cliente:  Q2802407C *****
+Servicio:  55
+subactividad de servicio[0]: 4203466
+Gerencia de Informatica de la Seguridad Social ** 4203466 ** BAJA **
+subactividad de servicio[0]: 4164453
+Gerencia de Informatica de la Seguridad Social ** 4164453 ** BAJA **
+subactividad de servicio[1]:  4203467
+Gerencia de Informatica de la Seguridad Social ** 4203467 ** BAJA **
+Servicio:  390
+*************************************************************************
+
+***** Cliente:  A86212420 *****
+Servicio:  55
+subactividad de servicio[0]: 4222551
+Aena ** 4222551 ** ACTIVO **
+1875070 Aena 4222550 4222551 55 TROE 5712.10009765625
+subactividad de servicio[1]:  4222984
+Aena ** 4222984 ** ACTIVO **
+1875070 Aena 4222550 4222984 55 TROE 0.0
+Servicio:  390
+*************************************************************************
+
+***** Cliente:  A28581882 *****
+Servicio:  55
+subactividad de servicio[0]: 4205928
+Alcampo S.A. ** 4205928 ** BAJA **
+subactividad de servicio[1]:  4194326
+Alcampo S.A. ** 4194326 ** BAJA **
+Servicio:  390
+*************************************************************************
+
+***** Cliente:  Q2826004J *****
+Servicio:  55
+Servicio:  390
+*************************************************************************
+
+***** Cliente:  A78053147 *****
+Servicio:  55
+Servicio:  390
+*************************************************************************
+
+***** Cliente:  A48001655 *****
+Servicio:  55
+subactividad de servicio[0]: 4207555
+Comeresa Prensa S.L. ** 4207555 ** ACTIVO **
+1875070 Comeresa Prensa S.L. 4176800 4207555 55 TROE 11455.000030517578
+subactividad de servicio[0]: 4185635
+Comeresa Prensa S.L. ** 4185635 ** BAJA **
+subactividad de servicio[1]:  4177296
+Comeresa Prensa S.L. ** 4177296 ** ACTIVO **
+1875070 Comeresa Prensa S.L. 4176800 4177296 55 TROE 2293.3800048828125
+Servicio:  390
+subactividad de servicio[0]: 4207563
+Comeresa Prensa S.L. ** 4207563 ** ACTIVO **
+1875070 Comeresa Prensa S.L. 4176800 4207563 390 TROE 9350.0
+subactividad de servicio[1]:  4176801
+Comeresa Prensa S.L. ** 4176801 ** ACTIVO **
+1875070 Comeresa Prensa S.L. 4176800 4176801 390 TROE 872.1500244140625
+*************************************************************************
+
+***** Cliente:  A15005499 *****
+Servicio:  55
+subactividad de servicio[0]: 4231410
+Finsa ** 4231410 ** ACTIVO **
+1875070 Finsa 4231409 4231410 55 TROE 1723.7249755859375
+subactividad de servicio[1]:  4232302
+Finsa ** 4232302 ** ACTIVO **
+1875070 Finsa 4231409 4232302 55 TROE 0.0
+Servicio:  390
+subactividad de servicio[0]: 4231411
+Finsa ** 4231411 ** ACTIVO **
+1875070 Finsa 4231409 4231411 390 TROE 1290.0849609375
+subactividad de servicio[1]:  4232303
+Finsa ** 4232303 ** ACTIVO **
+1875070 Finsa 4231409 4232303 390 TROE 0.0
+*************************************************************************
+
+***** Cliente:  A78839271 *****
+Servicio:  55
+subactividad de servicio[0]: 4206959
+ATRESMEDIA CORPORACION DE MEDIOS DE COMUNICACION, S.A ** 4206959 ** ACTIVO **
+1875070 ATRESMEDIA CORPORACION DE MEDIOS DE COMUNICACION, S.A 4168598 4206959 55 TROE 6022.959991455078
+subactividad de servicio[0]: 4206960
+ATRESMEDIA CORPORACION DE MEDIOS DE COMUNICACION, S.A ** 4206960 ** ACTIVO **
+1875070 ATRESMEDIA CORPORACION DE MEDIOS DE COMUNICACION, S.A 4168598 4206960 55 TROE 6022.959991455078
+subactividad de servicio[1]:  4206961
+ATRESMEDIA CORPORACION DE MEDIOS DE COMUNICACION, S.A ** 4206961 ** ACTIVO **
+1875070 ATRESMEDIA CORPORACION DE MEDIOS DE COMUNICACION, S.A 4168598 4206961 55 TROE 26276.290293941274
+Servicio:  390
+*************************************************************************
+
+***** Cliente:  A07995434 *****
+Servicio:  55
+subactividad de servicio[0]: 4202883
+Idiso ** 4202883 ** ACTIVO **
+1875070 Idiso 4176697 4202883 55 TROE -4737.0
+subactividad de servicio[1]:  4176701
+Idiso ** 4176701 ** ACTIVO **
+1875070 Idiso 4176697 4176701 55 TROE 3229.9298706054688
+Servicio:  390
+subactividad de servicio[0]: 4202882
+Idiso ** 4202882 ** ACTIVO **
+1875070 Idiso 4176697 4202882 390 TROE -15208.539672851562
+subactividad de servicio[1]:  4176700
+Idiso ** 4176700 ** ACTIVO **
+1875070 Idiso 4176697 4176700 390 TROE 8491.830078125
+*************************************************************************
+
+***** Cliente:  A95267936 *****
+Servicio:  55
+subactividad de servicio[1]:  4140285
+EUSKAL TELEBISTA S.A ** 4140285 ** ACTIVO **
+1875070 EUSKAL TELEBISTA S.A 4140284 4140285 55 TROE 27611.640380859375
+Servicio:  390
+*************************************************************************
+
+***** Cliente:  A48265169 *****
+Servicio:  55
+Servicio:  390
+subactividad de servicio[1]:  4217609
+BBVA ** 4217609 ** ACTIVO **
+1875070 BBVA 4217608 4217609 390 TROE 0.0
+subactividad de servicio[1]:  4240953
+BBVA ** 4240953 ** ACTIVO **
+1875070 BBVA 4217608 4240953 390 TROE 0.0
+*************************************************************************
+
+***** Cliente:  A79520656 *****
+Servicio:  55
+subactividad de servicio[0]: 4228091
+TR US ** 4228091 ** ACTIVO **
+1875070 TR US 4228090 4228091 55 TROE 3534.0
+subactividad de servicio[0]: 4224556
+TR US ** 4224556 ** BAJA **
+subactividad de servicio[1]:  4228789
+TR US ** 4228789 ** ACTIVO **
+1875070 TR US 4228090 4228789 55 TROE 0.0
+Servicio:  390
+subactividad de servicio[0]: 4228092
+TR US ** 4228092 ** ACTIVO **
+1875070 TR US 4228090 4228092 390 TROE 2500.0
+subactividad de servicio[1]:  4228791
+TR US ** 4228791 ** ACTIVO **
+1875070 TR US 4228090 4228791 390 TROE 0.0
+*************************************************************************
+
+***** Cliente:  A96569207 *****
+Servicio:  55
+Servicio:  390
+*************************************************************************
+
+***** Cliente:  Q2802472G *****
+Servicio:  55
+Servicio:  390
+*************************************************************************
+
+***** Cliente:  S2801401G *****
+Servicio:  55
+subactividad de servicio[0]: 4196870
+Ministerio Transicion Ecologica ** 4196870 ** ACTIVO **
+1875070 Ministerio Transicion Ecologica 4196868 4196870 55 TROE 1740.0
+subactividad de servicio[1]:  4199032
+Ministerio Transicion Ecologica ** 4199032 ** ACTIVO **
+1875070 Ministerio Transicion Ecologica 4196868 4199032 55 TROE 0.0
+Servicio:  390
+*************************************************************************
+
+***** Cliente:  B63054068 *****
+Servicio:  55
+subactividad de servicio[0]: 4228730
+Desigual (ABASIC SLU) ** 4228730 ** ACTIVO **
+1875070 Desigual (ABASIC SLU) 4228729 4228730 55 TROE 9181.540008544922
+subactividad de servicio[1]:  4230582
+Desigual (ABASIC SLU) ** 4230582 ** ACTIVO **
+1875070 Desigual (ABASIC SLU) 4228729 4230582 55 TROE 0.0
+Servicio:  390
+subactividad de servicio[0]: 4228731
+Desigual (ABASIC SLU) ** 4228731 ** BAJA **
+subactividad de servicio[0]: 4228732
+Desigual (ABASIC SLU) ** 4228732 ** ACTIVO **
+1875070 Desigual (ABASIC SLU) 4228729 4228732 390 TROE 4750.0
+subactividad de servicio[1]:  4230587
+Desigual (ABASIC SLU) ** 4230587 ** ACTIVO **
+1875070 Desigual (ABASIC SLU) 4228729 4230587 390 TROE 0.0
+*************************************************************************
+
+***** Cliente:  A26106013 *****
+Servicio:  55
+subactividad de servicio[0]: 4209767
+Securitas Direct ** 4209767 ** ACTIVO **
+1875070 Securitas Direct 4209766 4209767 55 TROE 3885.4200439453125
+subactividad de servicio[1]:  4210101
+Securitas Direct ** 4210101 ** ACTIVO **
+1875070 Securitas Direct 4209766 4210101 55 TROE 884.640007019043
+Servicio:  390
+*************************************************************************
+
+***** Cliente:  A78650348 *****
+Servicio:  55
+Servicio:  390
+subactividad de servicio[0]: 4233545
+BANCO CETELEM, S.A ** 4233545 ** BAJA **
+subactividad de servicio[0]: 4239075
+BANCO CETELEM, S.A ** 4239075 ** ACTIVO **
+1875070 BANCO CETELEM, S.A 4138147 4239075 390 TROE 8418.439819335938
+subactividad de servicio[0]: 4232042
+BANCO CETELEM, S.A ** 4232042 ** BAJA **
+subactividad de servicio[1]:  4239970
+BANCO CETELEM, S.A ** 4239970 ** ACTIVO **
+1875070 BANCO CETELEM, S.A 4138147 4239970 390 TROE 0.0
+*************************************************************************
+
+***** Cliente:  S1533001B *****
+Servicio:  55
+Servicio:  390
+*************************************************************************
+
+***** Cliente:  Q5856338H *****
+Servicio:  55
+subactividad de servicio[0]: 4209511
+Generalitat  de Cataluna ** 4209511 ** ACTIVO **
+1875070 Generalitat  de Cataluna 4185115 4209511 55 TROE 2385.0
+subactividad de servicio[0]: 4232504
+Generalitat  de Cataluna ** 4232504 ** ACTIVO **
+1875070 Generalitat  de Cataluna 4232502 4232504 55 TROE 2385.0
+subactividad de servicio[0]: 4232503
+Generalitat  de Cataluna ** 4232503 ** BAJA **
+subactividad de servicio[1]:  4192245
+Generalitat  de Cataluna ** 4192245 ** ACTIVO **
+1875070 Generalitat  de Cataluna 4185115 4192245 55 TROE 10419.309765815735
+subactividad de servicio[1]:  4236711
+Generalitat  de Cataluna ** 4236711 ** ACTIVO **
+1875070 Generalitat  de Cataluna 4232502 4236711 55 TROE 10419.309765815735
+Servicio:  390
+subactividad de servicio[0]: 4209512
+Generalitat  de Cataluna ** 4209512 ** ACTIVO **
+1875070 Generalitat  de Cataluna 4185115 4209512 390 TROE 0.0
+subactividad de servicio[0]: 4232506
+Generalitat  de Cataluna ** 4232506 ** ACTIVO **
+1875070 Generalitat  de Cataluna 4232502 4232506 390 TROE 0.0
+subactividad de servicio[0]: 4232505
+Generalitat  de Cataluna ** 4232505 ** BAJA **
+subactividad de servicio[1]:  4192246
+Generalitat  de Cataluna ** 4192246 ** ACTIVO **
+1875070 Generalitat  de Cataluna 4185115 4192246 390 TROE 10290.509765625
+subactividad de servicio[1]:  4236712
+Generalitat  de Cataluna ** 4236712 ** ACTIVO **
+1875070 Generalitat  de Cataluna 4232502 4236712 390 TROE 10290.509765625
+*************************************************************************
+
+***** Cliente:  A07632474 *****
+Servicio:  55
+Servicio:  390
+subactividad de servicio[0]: 4203580
+RIU HOTELES S.A. ** 4203580 ** BAJA **
+*************************************************************************
+
+***** Cliente:  A28017895 *****
+Servicio:  55
+subactividad de servicio[0]: 4198979
+El Corte Ingles S.A. ** 4198979 ** ACTIVO **
+1875070 El Corte Ingles S.A. 4198978 4198979 55 TROE 83262.26042938232
+subactividad de servicio[1]:  4199043
+El Corte Ingles S.A. ** 4199043 ** ACTIVO **
+1875070 El Corte Ingles S.A. 4198978 4199043 55 TROE 3.7799999713897705
+Servicio:  390
+subactividad de servicio[0]: 4198980
+El Corte Ingles S.A. ** 4198980 ** ACTIVO **
+1875070 El Corte Ingles S.A. 4198978 4198980 390 TROE 63737.55078125
+*************************************************************************
+
+***** Cliente:  Q2801659J *****
+Servicio:  55
+subactividad de servicio[0]: 4214250
+Renfe Operadora ** 4214250 ** ACTIVO **
+1875070 Renfe Operadora 4183713 4214250 55 TROE 8140.159973144531
+subactividad de servicio[1]:  4184703
+Renfe Operadora ** 4184703 ** ACTIVO **
+1875070 Renfe Operadora 4183713 4184703 55 TROE 0.0
+Servicio:  390
+subactividad de servicio[0]: 4215969
+Renfe Operadora ** 4215969 ** ACTIVO **
+1875070 Renfe Operadora 4183713 4215969 390 TROE 3033.889892578125
+*************************************************************************
+
+***** Cliente:  A81646564 *****
+Servicio:  55
+subactividad de servicio[0]: 4200962
+DTS DISTRIBUIDORA DE TELEVISION DIGITAL, S.A.U. ** 4200962 ** BAJA **
+subactividad de servicio[1]:  4200961
+DTS DISTRIBUIDORA DE TELEVISION DIGITAL, S.A.U. ** 4200961 ** BAJA **
+subactividad de servicio[1]:  4145291
+DTS DISTRIBUIDORA DE TELEVISION DIGITAL, S.A.U. ** 4145291 ** BAJA **
+Servicio:  390
+*************************************************************************
+
+***** Cliente:  B36950970 *****
+Servicio:  55
+subactividad de servicio[0]: 4237330
+Bimba y Lola ** 4237330 ** ACTIVO **
+1875070 Bimba y Lola 4237329 4237330 55 TROE 30519.319946289062
+subactividad de servicio[1]:  4238057
+Bimba y Lola ** 4238057 ** ACTIVO **
+1875070 Bimba y Lola 4237329 4238057 55 TROE 86.7300033569336
+subactividad de servicio[1]:  4203455
+Bimba y Lola ** 4203455 ** BAJA **
+Servicio:  390
+*************************************************************************
+
+***** Cliente:  B63879902 *****
+Servicio:  55
+subactividad de servicio[0]: 4235427
+Mediapro ** 4235427 ** ACTIVO **
+1875070 Mediapro 4235426 4235427 55 TROE 0.0
+subactividad de servicio[1]:  4195747
+Mediapro ** 4195747 ** ACTIVO **
+1875070 Mediapro 4195746 4195747 55 TROE 535.4400024414062
+subactividad de servicio[1]:  4235820
+Mediapro ** 4235820 ** ACTIVO **
+1875070 Mediapro 4235426 4235820 55 TROE 535.4400024414062
+Servicio:  390
+*************************************************************************
+
+***** Cliente:  S2813610I *****
+Servicio:  55
+subactividad de servicio[1]:  4218589
+M. Justicia ** 4218589 ** ACTIVO **
+1875070 M. Justicia 4218588 4218589 55 TROE 0.0
+Servicio:  390
+*************************************************************************
+
+***** Cliente:  S2819001E *****
+Servicio:  55
+subactividad de servicio[0]: 4222212
+MINISTERIO DE TRABAJO Y AA.SS. ** 4222212 ** ACTIVO **
+1875070 MINISTERIO DE TRABAJO Y AA.SS. 4222210 4222212 55 TROE 3527.6200256347656
+subactividad de servicio[0]: 4222211
+MINISTERIO DE TRABAJO Y AA.SS. ** 4222211 ** ACTIVO **
+1875070 MINISTERIO DE TRABAJO Y AA.SS. 4222210 4222211 55 TROE 3527.6200256347656
+Servicio:  390
+*************************************************************************
+
+***** Cliente:  B48435218 *****
+Servicio:  55
+subactividad de servicio[0]: 4207501
+PANDA SECURITY S.L. ** 4207501 ** BAJA **
+subactividad de servicio[1]:  4207843
+PANDA SECURITY S.L. ** 4207843 ** BAJA **
+Servicio:  390
+*************************************************************************
+
+***** Cliente:  Q2813014D *****
+Servicio:  55
+subactividad de servicio[1]:  4138128
+Agencia Espanola De Proteccion De Datos ** 4138128 ** BAJA **
+Servicio:  390
+*************************************************************************
+
+***** Cliente:  A79075438 *****
+Servicio:  55
+subactividad de servicio[1]:  4215592
+Conecta 5 Telecinco, S.A.U ** 4215592 ** ACTIVO **
+1875070 Conecta 5 Telecinco, S.A.U 4173969 4215592 55 TROE 106867.09539794922
+subactividad de servicio[1]:  4173971
+Conecta 5 Telecinco, S.A.U ** 4173971 ** ACTIVO **
+1875070 Conecta 5 Telecinco, S.A.U 4173969 4173971 55 TROE 106867.09539794922
+Servicio:  390
+subactividad de servicio[0]: 4232056
+Conecta 5 Telecinco, S.A.U ** 4232056 ** ACTIVO **
+1875070 Conecta 5 Telecinco, S.A.U 4173969 4232056 390 TROE 13695.0
+subactividad de servicio[1]:  4215593
+Conecta 5 Telecinco, S.A.U ** 4215593 ** ACTIVO **
+1875070 Conecta 5 Telecinco, S.A.U 4173969 4215593 390 TROE 17523.314453125
+*************************************************************************
+
+***** Cliente:  A86886462 *****
+Servicio:  55
+Servicio:  390
+*************************************************************************
+
+***** Cliente:  B66779869 *****
+Servicio:  55
+subactividad de servicio[0]: 4209947
+Servicios Integrales Unitecnic S.L. ** 4209947 ** ACTIVO **
+1875070 Servicios Integrales Unitecnic S.L. 4209946 4209947 55 TROE 3797.420036315918
+subactividad de servicio[1]:  4212685
+Servicios Integrales Unitecnic S.L. ** 4212685 ** ACTIVO **
+1875070 Servicios Integrales Unitecnic S.L. 4209946 4212685 55 TROE 1072.5799560546875
+subactividad de servicio[1]:  4183985
+Servicios Integrales Unitecnic S.L. ** 4183985 ** BAJA **
+Servicio:  390
+*************************************************************************
+
+***** Cliente:  P2800031C *****
+Servicio:  55
+subactividad de servicio[0]: 4214270
+Ayuntamiento de Madrid ** 4214270 ** ACTIVO **
+1875070 Ayuntamiento de Madrid 4174122 4214270 55 TROE 12519.380004882812
+subactividad de servicio[1]:  4214272
+Ayuntamiento de Madrid ** 4214272 ** ACTIVO **
+1875070 Ayuntamiento de Madrid 4174122 4214272 55 TROE 41.54999923706055
+Servicio:  390
+subactividad de servicio[0]: 4214269
+Ayuntamiento de Madrid ** 4214269 ** ACTIVO **
+1875070 Ayuntamiento de Madrid 4174122 4214269 390 TROE 8842.819946289062
+subactividad de servicio[1]:  4214271
+Ayuntamiento de Madrid ** 4214271 ** ACTIVO **
+1875070 Ayuntamiento de Madrid 4174122 4214271 390 TROE 0.0
+*************************************************************************
+
+***** Cliente:  Q3900738J *****
+Servicio:  55
+subactividad de servicio[0]: 4215234
+Gobierno de Cantabria ** 4215234 ** ACTIVO **
+1875070 Gobierno de Cantabria 4215233 4215234 55 TROE 400.0
+subactividad de servicio[1]:  4216043
+Gobierno de Cantabria ** 4216043 ** ACTIVO **
+1875070 Gobierno de Cantabria 4215233 4216043 55 TROE 0.0
+Servicio:  390
+subactividad de servicio[0]: 4215235
+Gobierno de Cantabria ** 4215235 ** ACTIVO **
+1875070 Gobierno de Cantabria 4215233 4215235 390 TROE 400.0
+subactividad de servicio[1]:  4216044
+Gobierno de Cantabria ** 4216044 ** ACTIVO **
+1875070 Gobierno de Cantabria 4215233 4216044 390 TROE 0.0
+*************************************************************************
+
+***** Cliente:  B84953132 *****
+Servicio:  55
+Servicio:  390
+*************************************************************************
+
+***** Cliente:  A85309219 *****
+Servicio:  55
+subactividad de servicio[0]: 4192430
+RED ELECTRICA DE ESPANA ** 4192430 ** BAJA **
+subactividad de servicio[0]: 4231481
+RED ELECTRICA DE ESPANA ** 4231481 ** ACTIVO **
+1875070 RED ELECTRICA DE ESPANA 4231480 4231481 55 TROE 1110.1199951171875
+subactividad de servicio[1]:  4194385
+RED ELECTRICA DE ESPANA ** 4194385 ** BAJA **
+subactividad de servicio[1]:  4232401
+RED ELECTRICA DE ESPANA ** 4232401 ** ACTIVO **
+1875070 RED ELECTRICA DE ESPANA 4231480 4232401 55 TROE 381.5899963378906
+Servicio:  390
+*************************************************************************
+
+***** Cliente:  B54460910 *****
+Servicio:  55
+subactividad de servicio[0]: 4169312
+Volvo Ocean Race, S.L.U ** 4169312 ** BAJA **
+subactividad de servicio[0]: 4169314
+Volvo Ocean Race, S.L.U ** 4169314 ** BAJA **
+subactividad de servicio[0]: 4169315
+Volvo Ocean Race, S.L.U ** 4169315 ** BAJA **
+subactividad de servicio[1]:  4169313
+Volvo Ocean Race, S.L.U ** 4169313 ** BAJA **
+Servicio:  390
+*************************************************************************
+
+***** Cliente:  222452988 *****
+Servicio:  55
+subactividad de servicio[0]: 4202893
+Iberia.com ** 4202893 ** BAJA **
+subactividad de servicio[1]:  4188011
+Iberia.com ** 4188011 ** BAJA **
+Servicio:  390
+subactividad de servicio[0]: 4202894
+Iberia.com ** 4202894 ** BAJA **
+subactividad de servicio[1]:  4188012
+Iberia.com ** 4188012 ** BAJA **
+*************************************************************************
+
+***** Cliente:  S2804003H *****
+Servicio:  55
+subactividad de servicio[0]: 4214294
+Senado de Espana ** 4214294 ** ACTIVO **
+1875070 Senado de Espana 4179668 4214294 55 TROE 3012.3999938964844
+Servicio:  390
+*************************************************************************
+
+***** Cliente:  A15075062 *****
+Servicio:  55
+subactividad de servicio[0]: 4221686
+INDITEX ** 4221686 ** ACTIVO **
+1875070 INDITEX 4221535 4221686 55 TROE 164649.8984375
+subactividad de servicio[0]: 4221536
+INDITEX ** 4221536 ** ACTIVO **
+1875070 INDITEX 4221535 4221536 55 TROE 164649.8984375
+subactividad de servicio[1]:  4221687
+INDITEX ** 4221687 ** ACTIVO **
+1875070 INDITEX 4221535 4221687 55 TROE 490919.125
+Servicio:  390
+subactividad de servicio[0]: 4221537
+INDITEX ** 4221537 ** ACTIVO **
+1875070 INDITEX 4221535 4221537 390 TROE 135037.0
+subactividad de servicio[0]: 4202511
+INDITEX ** 4202511 ** BAJA **
+subactividad de servicio[1]:  4221688
+INDITEX ** 4221688 ** ACTIVO **
+1875070 INDITEX 4221535 4221688 390 TROE 0.0
+*************************************************************************
+
+***** Cliente:  B50871284 *****
+Servicio:  55
+subactividad de servicio[0]: 4224872
+Quiron Prevencion, S.L.U. ** 4224872 ** BAJA **
+subactividad de servicio[0]: 4224873
+Quiron Prevencion, S.L.U. ** 4224873 ** ACTIVO **
+1875070 Quiron Prevencion, S.L.U. 4224871 4224873 55 TROE 8880.0
+subactividad de servicio[1]:  4225198
+Quiron Prevencion, S.L.U. ** 4225198 ** ACTIVO **
+1875070 Quiron Prevencion, S.L.U. 4224871 4225198 55 TROE 0.0
+subactividad de servicio[1]:  4228715
+Quiron Prevencion, S.L.U. ** 4228715 ** BAJA **
+Servicio:  390
+*************************************************************************
+
+***** Cliente:  B57060725 *****
+Servicio:  55
+subactividad de servicio[0]: 4202829
+RURALMED S.L.U ** 4202829 ** ACTIVO **
+1875070 RURALMED S.L.U 4202828 4202829 55 TROE 5064.0
+subactividad de servicio[1]:  4207403
+RURALMED S.L.U ** 4207403 ** ACTIVO **
+1875070 RURALMED S.L.U 4202828 4207403 55 TROE 0.0
+Servicio:  390
+*************************************************************************
+
+***** Cliente:  A84818558 *****
+Servicio:  55
+subactividad de servicio[0]: 4219660
+RTVE ** 4219660 ** ACTIVO **
+1875070 RTVE 4219659 4219660 55 TROE 0.0
+subactividad de servicio[1]:  4219877
+RTVE ** 4219877 ** ACTIVO **
+1875070 RTVE 4219659 4219877 55 TROE 30017.120407104492
+subactividad de servicio[1]:  4175425
+RTVE ** 4175425 ** BAJA **
+Servicio:  390
+*************************************************************************
+
+***** Cliente:  A28028744 *****
+Servicio:  55
+subactividad de servicio[0]: 4205830
+Agencia EFE ** 4205830 ** ACTIVO **
+1875070 Agencia EFE 4170540 4205830 55 TROE 2160.7000122070312
+subactividad de servicio[1]:  4205831
+Agencia EFE ** 4205831 ** ACTIVO **
+1875070 Agencia EFE 4170540 4205831 55 TROE 0.0
+Servicio:  390
+*************************************************************************
+
+***** Cliente:  B07153901 *****
+Servicio:  55
+subactividad de servicio[0]: 4198652
+Iberostar Hoteles Y Apartamentos ** 4198652 ** ACTIVO **
+1875070 Iberostar Hoteles Y Apartamentos 4198651 4198652 55 TROE 2109.5
+subactividad de servicio[1]:  4198998
+Iberostar Hoteles Y Apartamentos ** 4198998 ** ACTIVO **
+1875070 Iberostar Hoteles Y Apartamentos 4198651 4198998 55 TROE 2986.3199462890625
+Servicio:  390
+subactividad de servicio[0]: 4198653
+Iberostar Hoteles Y Apartamentos ** 4198653 ** ACTIVO **
+1875070 Iberostar Hoteles Y Apartamentos 4198651 4198653 390 TROE 3000.0
+subactividad de servicio[0]: 4238515
+Iberostar Hoteles Y Apartamentos ** 4238515 ** ACTIVO **
+1875070 Iberostar Hoteles Y Apartamentos 4238514 4238515 390 TROE 3000.0
+subactividad de servicio[0]: 4238516
+Iberostar Hoteles Y Apartamentos ** 4238516 ** ACTIVO **
+1875070 Iberostar Hoteles Y Apartamentos 4238514 4238516 390 TROE 3000.0
+subactividad de servicio[1]:  4217088
+Iberostar Hoteles Y Apartamentos ** 4217088 ** ACTIVO **
+1875070 Iberostar Hoteles Y Apartamentos 4198651 4217088 390 TROE 3894.0
+*************************************************************************
+
+***** Cliente:  A28027944 *****
+Servicio:  55
+subactividad de servicio[0]: 4222155
+NH Hoteles ** 4222155 ** ACTIVO **
+1875070 NH Hoteles 4222154 4222155 55 TROE 6163.219970703125
+subactividad de servicio[1]:  4222452
+NH Hoteles ** 4222452 ** ACTIVO **
+1875070 NH Hoteles 4222154 4222452 55 TROE 961.875
+Servicio:  390
+subactividad de servicio[0]: 4222156
+NH Hoteles ** 4222156 ** ACTIVO **
+1875070 NH Hoteles 4222154 4222156 390 TROE 7281.5
+subactividad de servicio[1]:  4222456
+NH Hoteles ** 4222456 ** ACTIVO **
+1875070 NH Hoteles 4222154 4222456 390 TROE 2176.875
+*************************************************************************
+
+***** Cliente:  B59088948 *****
+Servicio:  55
+subactividad de servicio[0]: 4206326
+Punto FA S.L. ** 4206326 ** ACTIVO **
+1875070 Punto FA S.L. 4206325 4206326 55 TROE 132533.9208984375
+subactividad de servicio[1]:  4207217
+Punto FA S.L. ** 4207217 ** ACTIVO **
+1875070 Punto FA S.L. 4206325 4207217 55 TROE 0.0
+Servicio:  390
+subactividad de servicio[0]: 4206327
+Punto FA S.L. ** 4206327 ** ACTIVO **
+1875070 Punto FA S.L. 4206325 4206327 390 TROE 59769.0
+*************************************************************************
+
+***** Cliente:  A08037392 *****
+Servicio:  55
+subactividad de servicio[0]: 4229857
+Roca Corporacion Empresarial, S.A. ** 4229857 ** ACTIVO **
+1875070 Roca Corporacion Empresarial, S.A. 4229856 4229857 55 TROE 6114.89990234375
+subactividad de servicio[1]:  4230698
+Roca Corporacion Empresarial, S.A. ** 4230698 ** ACTIVO **
+1875070 Roca Corporacion Empresarial, S.A. 4229856 4230698 55 TROE 0.0
+Servicio:  390
+*************************************************************************
+
+***** Cliente:  A84289230 *****
+Servicio:  55
+subactividad de servicio[0]: 4231791
+Ecoprensa S.A ** 4231791 ** ACTIVO **
+1875070 Ecoprensa S.A 4231789 4231791 55 TROE 3754.1000061035156
+subactividad de servicio[0]: 4231790
+Ecoprensa S.A ** 4231790 ** ACTIVO **
+1875070 Ecoprensa S.A 4231789 4231790 55 TROE 3754.1000061035156
+subactividad de servicio[1]:  4232417
+Ecoprensa S.A ** 4232417 ** ACTIVO **
+1875070 Ecoprensa S.A 4231789 4232417 55 TROE 0.0
+Servicio:  390
+*************************************************************************
+
+***** Cliente:  Q3518001G *****
+Servicio:  55
+subactividad de servicio[0]: 4238296
+ULPGC - Universidad de Las Palmas de Gran Canaria ** 4238296 ** ACTIVO **
+1875070 ULPGC - Universidad de Las Palmas de Gran Canaria 4238295 4238296 55 TROE 0.0
+Servicio:  390
+*************************************************************************
+
+CORRECTO
+2021-04-13 16:52:56.368891

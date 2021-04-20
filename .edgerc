@@ -1,0 +1,29 @@
+[default] 
+client_secret = OTjeNiU1WSetMGwlOXcfnPreI18tAmrJtjhWlTzZAHA= 
+host = akab-2tvy2kmhlexaftlu-3co7saekxwztjwqy.luna.akamaiapis.net 
+access_token = akab-nuih62slpiw63cpw-o5b2wsredbuuyjg3 
+client_token = akab-qgei2gdqx2dwd2b2-nslwpfl5u4lpur56 
+
+[billingusage] 
+client_secret = OTjeNiU1WSetMGwlOXcfnPreI18tAmrJtjhWlTzZAHA= 
+host = akab-2tvy2kmhlexaftlu-3co7saekxwztjwqy.luna.akamaiapis.net 
+access_token = akab-nuih62slpiw63cpw-o5b2wsredbuuyjg3 
+client_token = akab-qgei2gdqx2dwd2b2-nslwpfl5u4lpur56 
+
+[Facturacion] 
+client_secret = dKyFoz/7Mn/Jf0/tWO3V6vnwSgX+ySqz6cq48ShZxdw=  
+host = akab-exyxwiuzwyrzozg3-jpgtqne3yztkwvr7.luna.akamaiapis.net  
+access_token = akab-i4wy7z7hnsk5nghf-armtagjox5gghhq6  
+client_token = akab-hlwl7ui2kefopqez-sigvqnfr2folwsnt  
+
+[V_APIs] 
+client_secret = OTjeNiU1WSetMGwlOXcfnPreI18tAmrJtjhWlTzZAHA= 
+host = akab-2tvy2kmhlexaftlu-3co7saekxwztjwqy.luna.akamaiapis.net 
+access_token = akab-nuih62slpiw63cpw-o5b2wsredbuuyjg3 
+client_token = akab-qgei2gdqx2dwd2b2-nslwpfl5u4lpur56 
+
+[billingcenter] 
+client_secret = OTjeNiU1WSetMGwlOXcfnPreI18tAmrJtjhWlTzZAHA= 
+host = akab-2tvy2kmhlexaftlu-3co7saekxwztjwqy.luna.akamaiapis.net 
+access_token = akab-nuih62slpiw63cpw-o5b2wsredbuuyjg3 
+client_token = akab-qgei2gdqx2dwd2b2-nslwpfl5u4lpur56 

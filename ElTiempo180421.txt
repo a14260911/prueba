@@ -1,0 +1,7 @@
+2021-04-18 23:01:11.919117
+Madrid                    maxima: 17  minima: 3  cielo: Poco nuboso
+Alcalá de Henares         maxima: 18  minima: 1  cielo: Poco nuboso
+Getafe                    maxima: 18  minima: 3  cielo: Poco nuboso
+Collado Villalba          maxima: 17  minima: 0  cielo: Poco nuboso
+Navalcarnero              maxima: 18  minima: 3  cielo: Nubes altas
+Aranjuez                  maxima: 19  minima: 0  cielo: Poco nuboso

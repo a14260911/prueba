@@ -1,0 +1,86 @@
+{
+  "END_CUSTOMER_ACCOUNT_NAME": "INDITEX",
+  "END_CUSTOMER_ACCOUNT_ID": "15Q-7E4L"
+}
+[
+  {
+    "EFFECTIVE_END_DATE": "2023-08-31",
+    "PRODUCT": "Bot Manager Premier"
+  },
+  {
+    "EFFECTIVE_END_DATE": "2023-08-31",
+    "PRODUCT": "Edge Redirector Cloudlet"
+  },
+  {
+    "EFFECTIVE_END_DATE": "2023-08-31",
+    "PRODUCT": "SSL Network Access - OV SAN - VIP"
+  },
+  {
+    "EFFECTIVE_END_DATE": "2023-08-31",
+    "PRODUCT": "Kona Site Defender"
+  },
+  {
+    "EFFECTIVE_END_DATE": "2023-08-31",
+    "PRODUCT": "Ion"
+  },
+  {
+    "EFFECTIVE_END_DATE": "2023-08-31",
+    "PRODUCT": "DataStream 2 Web"
+  },
+  {
+    "EFFECTIVE_END_DATE": "2023-08-31",
+    "PRODUCT": "Global Traffic Management - Premier"
+  },
+  {
+    "EFFECTIVE_END_DATE": "2023-08-31",
+    "PRODUCT": "SSL Network Access - OV SAN - SNI"
+  },
+  {
+    "EFFECTIVE_END_DATE": "2023-08-31",
+    "PRODUCT": "SIEM Integration"
+  },
+  {
+    "EFFECTIVE_END_DATE": "2023-08-31",
+    "PRODUCT": "Ion"
+  },
+  {
+    "EFFECTIVE_END_DATE": "2023-08-31",
+    "PRODUCT": "Client Reputation"
+  },
+  {
+    "EFFECTIVE_END_DATE": "2023-08-31",
+    "PRODUCT": "Professional Services - Enterprise"
+  },
+  {
+    "EFFECTIVE_END_DATE": "2023-08-31",
+    "PRODUCT": "CloudTest"
+  },
+  {
+    "EFFECTIVE_END_DATE": "2023-08-31",
+    "PRODUCT": "mPulse Service"
+  },
+  {
+    "EFFECTIVE_END_DATE": "2023-08-31",
+    "PRODUCT": "Edge DNS"
+  },
+  {
+    "EFFECTIVE_END_DATE": "2023-08-31",
+    "PRODUCT": "Enterprise Threat Protector - Intelligence"
+  },
+  {
+    "EFFECTIVE_END_DATE": "2023-08-31",
+    "PRODUCT": "SSL Network Access - OV Wildcard - VIP"
+  },
+  {
+    "EFFECTIVE_END_DATE": "2023-08-31",
+    "PRODUCT": "Protect and Perform::Premium Plus Security Optimization"
+  },
+  {
+    "EFFECTIVE_END_DATE": "2023-08-31",
+    "PRODUCT": "Image and Video Manager - Image Optimization"
+  },
+  {
+    "EFFECTIVE_END_DATE": "2023-08-31",
+    "PRODUCT": "mPulse"
+  }
+]
