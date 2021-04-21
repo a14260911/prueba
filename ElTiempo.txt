@@ -6,3 +6,19 @@ Collado Villalba          maxima: 18  minima: 5  cielo: Muy nuboso con tormenta
 Navalcarnero              maxima: 19  minima: 5  cielo: Intervalos nubosos con tormenta y lluvia escasa
 Aranjuez                  maxima: 21  minima: 4  cielo: Muy nuboso con tormenta y lluvia escasa
 2021-04-19 22:15:03.389605
+2021-04-20 23:15:02.874615
+Madrid                    maxima: 18  minima: 11 cielo: Muy nuboso con lluvia escasa
+Alcalá de Henares         maxima: 18  minima: 8  cielo: Intervalos nubosos con tormenta y lluvia escasa
+Getafe                    maxima: 18  minima: 10 cielo: Intervalos nubosos con lluvia escasa
+Collado Villalba          maxima: 17  minima: 8  cielo: Intervalos nubosos con lluvia escasa
+Navalcarnero              maxima: 18  minima: 10 cielo: Intervalos nubosos con lluvia escasa
+Aranjuez                  maxima: 20  minima: 8  cielo: Intervalos nubosos con lluvia escasa
+2021-04-20 23:15:02.874729
+2021-04-21 08:15:03.464802
+Madrid                    maxima: 18  minima: 10 cielo: Muy nuboso con lluvia escasa
+Alcalá de Henares         maxima: 19  minima: 6  cielo: Muy nuboso con lluvia escasa
+Getafe                    maxima: 18  minima: 9  cielo: Muy nuboso con lluvia escasa
+Collado Villalba          maxima: 16  minima: 8  cielo: Muy nuboso con lluvia
+Navalcarnero              maxima: 18  minima: 10 cielo: Muy nuboso con lluvia escasa
+Aranjuez                  maxima: 20  minima: 7  cielo: Nuboso con lluvia escasa
+2021-04-21 08:15:03.464913
